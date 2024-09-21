@@ -1,0 +1,13 @@
+   1 try { . "c:\Users\HARSH\AppData\Local\Programs\Microso...
+   2 git init
+   3 git status
+   4 git add testing.py
+   5 git add testing.py
+   6 git status
+   7 git commit -m "added testing files"
+   8 git status
+   9 rm testing.py
+  10 dir
+  11 git restore testing.py
+  12 clear
+  13 git status
